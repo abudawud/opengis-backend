@@ -1,6 +1,6 @@
 ## OpenGIS - Backend
 Backend REST API untuk OpenGIS - React (opengis-react)
-<img src="https://github.com/abudawud/opengis-backend/blob/master/doc/screenshoot.png">
+<img src="https://github.com/abudawud/opengis-backend/blob/master/doc/screenshoot-1.png">
 
 ## Getting Started
 Untuk dapat menjalankan projek ini berikut yang harus disiapkan telebih dahulu
